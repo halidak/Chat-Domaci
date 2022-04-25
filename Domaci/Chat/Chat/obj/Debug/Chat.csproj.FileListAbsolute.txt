@@ -1,0 +1,7 @@
+C:\Users\halid\OneDrive\Radna površina\Domaci\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\halid\OneDrive\Radna površina\Domaci\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\halid\OneDrive\Radna površina\Domaci\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\halid\OneDrive\Radna površina\Domaci\Chat\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
+C:\Users\halid\OneDrive\Radna površina\Domaci\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\halid\OneDrive\Radna površina\Domaci\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\halid\OneDrive\Radna površina\Domaci\Chat\Chat\obj\Debug\Chat.pdb
